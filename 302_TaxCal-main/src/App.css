@@ -1,0 +1,99 @@
+.container {
+  width: 50%;
+  display: inline;
+  text-align: center;
+  float: left;
+  height: 50%;
+}
+
+.container2 {
+  width: 50%;
+  display: inline;
+  text-align: center;
+  height: 50%;
+}
+
+.container3 {
+  margin-top: 10px;
+  width: 100%;
+  display: inline;
+  float: left;
+  text-align: center;
+}
+
+.Taxheader {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.maincontainer div > h2 {
+  color: red;
+}
+
+.income {
+  margin: 15px;
+  padding: 15px;
+}
+
+.incomeP {
+  font-weight: bold;
+}
+
+.jointincome,
+.jointmpf {
+  margin: 15px;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.mpf {
+  margin: 15px;
+  padding: 15px;
+}
+
+.mpfP {
+  font-weight: bold;
+}
+
+.statusandsubmit {
+  margin: 20px;
+  padding: 20px;
+  height: 20%;
+  width: 100%;
+  display: inline-block;
+}
+
+.status {
+  text-align: center;
+}
+
+#status {
+  width: 150px;
+  height: 50px;
+}
+
+.statusP {
+  font-weight: bold;
+}
+
+.resultP {
+  font-weight: bold;
+  margin: 20px;
+  padding: 20px;
+}
+
+.submit {
+  margin: 20px;
+  padding: 20px;
+  width: 90%;
+}
+
+h4 {
+  font-size: 20px;
+  color: rgb(14, 233, 14);
+}
+
+.TotalTax {
+  text-align: center;
+}
